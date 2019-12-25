@@ -1,0 +1,5 @@
+
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÿ€Æ–ÿÿÿÿÿ8ËäÏ·ñ-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(À£ìö8·¨Ò·ñ-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿ€Æ–ÿÿÿÿÿ8ËäÏ·ñ-
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À£ìö8·¨Ò·ñ-

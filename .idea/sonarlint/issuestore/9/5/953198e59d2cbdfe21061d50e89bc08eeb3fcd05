@@ -1,0 +1,9 @@
+
+ksquid:UselessImportCheck";Remove this unused import 'com.alibaba.fastjson.JSONArray'.(ÿÀâ³ùÿÿÿÿ8¿®ò-
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(‚Ñ¼Ó8øÿŒò-
+gsquid:S3252<"DUse static access with "com.alibaba.fastjson.JSON" for "parseArray".(½âĞŞûÿÿÿÿ8•µ²¯ó-
+hsquid:S3252!"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(¶¥‘Ëùÿÿÿÿ8¹–œò-
+bsquid:S3252#"DUse static access with "com.alibaba.fastjson.JSON" for "parseArray".(•µ’í8Íğàò-
+`squid:UselessImportCheck"6Remove this unused import 'com.alibaba.fastjson.JSON'.(Ö¢å$8—Ó¨ò-
+csquid:S32523"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(Èè”8Ù¡ˆ­ó-

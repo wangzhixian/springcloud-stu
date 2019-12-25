@@ -1,0 +1,6 @@
+
+…squid:S1845"bRename method "input" to prevent any misunderstanding/clash with field "INPUT" defined on line 17.(ÓÊ€ßûÿÿÿÿ8âû–ñ-
+Esquid:S1214""Move constants to a class or enum.(ê¸³ğıÿÿÿÿ8³•–ñ-
+‡squid:S1845"dRename method "output" to prevent any misunderstanding/clash with field "OUTPUT" defined on line 18.(şÄ³¹ùÿÿÿÿ8ï¶ÃÂñ-
+ˆsquid:S1845#"jRename method "ecifInput" to prevent any misunderstanding/clash with field "ECIFINPUT" defined on line 31.(òµ‹ê8¹’¬ó-
+squid:S1845&"lRename method "ecifOutput" to prevent any misunderstanding/clash with field "ECIFOUTPUT" defined on line 32.(‘Ç³çûÿÿÿÿ8ÍÔ’¬ó-

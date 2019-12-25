@@ -1,0 +1,19 @@
+#端口号
+server:
+  port: 7005
+#服务器名称
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/wangzhixian/cloud-config.git     #配置git仓库的地址
+          search-paths: config-repo                         #git仓库地址下的相对地址，可以配置多个， 用“，”分割
+          username: wangzhixian                             #git仓库的账号
+          password: wzx926454                               #git仓库的密码
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7000/eureka/
